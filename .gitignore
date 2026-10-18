@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datasets and caches (HAI is downloaded separately)
+data/
+cache/
+
+# External dependency (clone separately, see README)
+ext/
+
+# Generated tables and figures
+paper/
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.idea/
